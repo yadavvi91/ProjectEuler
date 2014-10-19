@@ -48,7 +48,6 @@ public class SumBelowN {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
 		int i = sc.nextInt();
 
 		// print the sum of all the numbers below 'i'
